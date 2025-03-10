@@ -51,6 +51,8 @@ Non-saturating activation functions are designed to mitigate the vanishing gradi
 
 Non-saturating activation functions are essential tools in deep learning for building efficient and effective neural networks. By addressing the vanishing gradient problem, they enable the training of deeper and more complex models.
 
+
+##!
 1. Sigmoid (Logistic):
 
 Formula: σ(x) = 1 / (1 + e^(-x))
